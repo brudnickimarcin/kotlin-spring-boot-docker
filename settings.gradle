@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-docker-aws'
+rootProject.buildFileName = 'build.gradle.kts'
+
